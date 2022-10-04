@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&display=swap");
+
+:root {
+  --color-darkBlue: #202046;
+  --color-grayishBlue: #babacf;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+html,
+body {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  background: url(../images/pattern-curve.svg) no-repeat left bottom;
+  color: var(--color-darkBlue);
+  height: 100vh;
+}
+
+.container {
+  max-width: 1190px;
+  padding: 0 40px;
+  margin: 0 auto;
+}
+
+.testimonial {
+  padding-top: 113px;
+  padding-bottom: 93px;
+  position: relative;
+}
+
+.bg {
+  width: 697px;
+  height: 100%;
+  background: url(../images/pattern-bg.svg) no-repeat top 50px right 0;
+  position: absolute;
+  top: 0;
+  right: -53px;
+}
+
+.slider {
+  display: grid;
+  align-items: center;
+}
+
+.testimonial__content {
+  grid-area: 1 / 1;
+  z-index: 3;
+  display: grid;
+  gap: 2rem;
+}
+
+.testimonial__img-box {
+  grid-area: 1 / 1;
+  justify-self: end;
+  display: grid;
+  justify-items: start;
+  position: relative;
+}
+
+.testimonial__img-box > img {
+  border-radius: 5px;
+  box-shadow: 0px 40px 50px -30px rgba(36, 36, 113, 0.495001);
+}
+
+.testimonial__text {
+  font: 300 2rem/1.38 "Inter";
+
+  max-width: 635px;
+}
+
+.testimonial__author {
+  font: 700 1.25rem/1.9 "Inter";
+}
+
+.testimonial__author > span {
+  font-weight: 500;
+  color: var(--color-grayishBlue);
+  margin-left: 10px;
+}
+
+.btn-box {
+  display: flex;
+  gap: 48px;
+  padding: 20px 24px;
+  background-color: #fff;
+  box-shadow: 0px 15px 20px -10px rgba(36, 36, 113, 0.0991313);
+  border-radius: 100px;
+  position: absolute;
+  bottom: 0;
+  transform: translate(52px, 50%);
+}
+
+.btn-box > button {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
