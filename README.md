@@ -1,92 +1,190 @@
-# Frontend Mentor - Coding bootcamp testimonials slider
+</p>
+<h1 align="center"> 
+    Suite landing page <br> 
+    <hr>
+    <img alt="Suite landing page" title="" src="readme/apr.jpg"/>
+</h1>
 
-![Design preview for the Coding bootcamp testimonials slider coding challenge](./design/desktop-preview.jpg)
+<h4 align="center"> 
+	🚧 Suite landing page ✔️ Concluded 🚀 🚧
+</h4>
 
-## Welcome! 👋
+## 💻 About the project
 
-Thanks for checking out this front-end coding challenge.
+✔️ Suite landing page - It is a fictitious company suite landing page.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+✔️ This project is a challenge from the Frontend Mentor website, where I could practice HTML, CSS and responsive.
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
+<img alt="" title="" src="readme/nivel.svg"/>
 
-## The challenge
+---
 
-Your challenge is to build out this testimonial slider and get it looking as close to the design as possible.
+## ⚙️ Functionalities
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+- [x] Layout adapts to any type of screen
+- [x] Hover states for interactive(hover) elements
 
-Your users should be able to: 
+---
 
-- View the optimal layout for the component depending on their device's screen size
-- Navigate the slider using either their mouse/trackpad or keyboard
+## 🎨 My solution on different screens:
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+### Mobile
 
-## Where to find everything
+<p align="left">
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+  <img alt="Suite landing page" title="#Suitelandingpage" src="readme/mobile.png"  width="200px" >
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+  <!-- <img alt="Typemaster pre-launch landing page" title="#Typemasterprelaunchlandingpa" src="./readme/mobile2.png">
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+  <img alt="Typemaster pre-launch landing page" title="#Typemasterprelaunchlandingpa" src="./readme/mobile3.png"> -->
+<!--
+  <img alt="Skilled e-learning landing page" title="#NextLevelWeek" src="./assets/detalhes-mobile.svg" width="200px"> -->
+</p>
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+### Tablet
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+<p align="left">
+  <img alt="Suite landing page" title="#Suitelandingpage" src="readme/tablet.png" width="200px" 
+</p>
 
-## Building your project
+### Desktop
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+<p align="left">
+  <img alt="Suite landing page" title="#Suitelandingpage" src="readme/desktop.png" width="200px">
+</p>
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+---
 
-## Deploying your project
+## 🌎 Preview Site
 
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
+- [Netlify](https://suite-vinicius.netlify.app)
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+## 🛠 Technologies
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+The following tools and technologies were used in the construction of the project:
 
-## Create a custom `README.md`
+- **HTML**
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+- **CSS**
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
+- **FIGMA**
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+<!-- - **FLEXBOX** -->
 
-## Submitting your solution
+<!-- - **CSS GRID** -->
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
+<!-- - **METODOLOGIA BEM** -->
 
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
+<!-- - **MEDIA QUERIES** -->
 
-## Sharing your solution
+<!-- - **FIGMA** -->
 
-There are multiple places you can share your solution:
+<!-- - **[Leaflet](https://react-leaflet.js.org/en/)**
+- **[React Leaflet](https://react-leaflet.js.org/)**
+- **[React Dropzone](https://github.com/react-dropzone/react-dropzone)**
 
-1. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
+> Veja o arquivo [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/web/package.json)
 
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
+#### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Server** ([NodeJS](https://nodejs.org/en/) + [TypeScript](https://www.typescriptlang.org/))
 
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
+- **[Express](https://expressjs.com/)**
+- **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
+- **[KnexJS](http://knexjs.org/)**
+- **[SQLite](https://github.com/mapbox/node-sqlite3)**
+- **[ts-node](https://github.com/TypeStrong/ts-node)**
+- **[dotENV](https://github.com/motdotla/dotenv)**
+- **[Multer](https://github.com/expressjs/multer)**
+- **[Celebrate](https://github.com/arb/celebrate)**
+- **[Joi](https://github.com/hapijs/joi)**
 
-## Got feedback for us?
+> Veja o arquivo [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/server/package.json)
 
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
+#### [](https://github.com/tgmarinho/Ecoleta#mobile-react-native--typescript)**Mobile** ([React Native](http://www.reactnative.com/) + [TypeScript](https://www.typescriptlang.org/))
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
+- **[Expo](https://expo.io/)**
+- **[Expo Google Fonts](https://github.com/expo/google-fonts)**
+- **[React Navigation](https://reactnavigation.org/)**
+- **[React Native Maps](https://github.com/react-native-community/react-native-maps)**
+- **[Expo Constants](https://docs.expo.io/versions/latest/sdk/constants/)**
+- **[React Native SVG](https://github.com/react-native-community/react-native-svg)**
+- **[Axios](https://github.com/axios/axios)**
+- **[Expo Location](https://docs.expo.io/versions/latest/sdk/location/)**
+- **[Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)**
 
-**Have fun building!** 🚀
+> Veja o arquivo [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/mobile/package.json)
+
+#### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
+
+- Protótipo: **[Figma](https://www.figma.com/)** → **[Protótipo (Ecoleta)](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta)**
+- API: **[IBGE API](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)** → **[API de UFs](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet)**, **[API de Municípios](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet)**
+- Maps: **[Leaflet](https://react-leaflet.js.org/en/)**
+- Editor: **[Visual Studio Code](https://code.visualstudio.com/)** → Extensions: **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
+- Markdown: **[StackEdit](https://stackedit.io/)**, **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
+- Commit Conventional: **[Commitlint](https://github.com/conventional-changelog/commitlint)**
+- Teste de API: **[Insomnia](https://insomnia.rest/)**
+- Ícones: **[Feather Icons](https://feathericons.com/)**, **[Font Awesome](https://fontawesome.com/)**
+- Fontes: **[Ubuntu](https://fonts.google.com/specimen/Ubuntu)**, **[Roboto](https://fonts.google.com/specimen/Roboto)**
+
+---
+
+## 👨‍💻 Contribuidores
+
+💜 Um super thanks 👏 para essa galera que fez esse produto sair do campo da ideia e entrar nas lojas de aplicativos :)
+
+<table>
+  <tr>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/2254731?s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="100px;" alt=""/><br /><sub><b>Diego Fernandes</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/4669899?s=460&u=806503605676192b5d0c363e4490e13d8127ed64&v=4" width="100px;" alt=""/><br /><sub><b>Cleiton Souza</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/861751?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Robson Marques</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/16831337?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Claudio Orlandi</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/37725197?s=460&u=446439436524c37f66e41f35b607dbb70358d5e4&v=4" width="100px;" alt=""/><br /><sub><b>Vinícios Fraga</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/26551306?s=460&u=18446655ccae6c2a29eb177a104ecf32f029aa3a&v=4" width="100px;" alt=""/><br /><sub><b>Hugo Duarte</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a>  <a href="https://blog.rocketseat.com.br/" title="Blog">🌐</a></td>
+
+  </tr>
+  <tr>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/39345247?s=460&u=cdff2624a327a43e2765112a54e966a06eac6d79&v=4" width="100px;" alt=""/><br /><sub><b>Joseph Oliveira</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/10366880?s=460&u=59e93e1752e9d2ece4b7d8e129d60caba9c94207&v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Rodz</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/6643122?s=460&u=1e9e1f04b76fb5374e6a041f5e41dce83f3b5d92&v=4" width="100px;" alt=""/><br /><sub><b>Mayk Brito</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/7268910?s=460&u=0b5d9df4232e70fa66ea9f130fad4260378323de&v=4" width="100px;" alt=""/><br /><sub><b>João Paulo</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/14251143?s=460&u=340ed1d854bbacc22b9a3210a18a1f589a28bc40&v=4" width="100px;" alt=""/><br /><sub><b>Luke Morales</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+     <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/5151405?s=460&u=1dbcf0e89087c2dc902d3331b90e532db1543d2b&v=4" width="100px;" alt=""/><br /><sub><b>Luiz Batanero</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+
+  </tr>
+</table>
+
+## 💪 Como contribuir para o projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+   > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
+
+--- -->
+<br>
+
+---
+
+## 🦸 Author
+
+<a href="https://www.frontendmentor.io/profile/viniciushenrique2015">
+  <!-- <img style="border-radius: 50%;" src="./assets/img/avatar.jpg" width="100px;" alt=""/> -->
+ <sub><h2 style="font-style: normal; color:">Vinícius Henrique</></sub>
+ <br />
+
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho)  -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-Vinícius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinícius-henrique-7a2533229/)](https://www.linkedin.com/in/vinícius-henrique-7a2533229/)
+[![Gmail Badge](https://img.shields.io/badge/-viniciush2015@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciush2015@gmail.com)](mailto:viniciush2015@gmail.com)
+
+<!-- ## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+Feito com ❤️ por Thiago Marinho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
+
+---
+
+## Versões do README
+
+[Português 🇧🇷](./README.md) | [Inglês sem emojis 🇺🇸](./README-en.md) | [Portugues sem logo 🇧🇷](./README-sem-logo.md) -->

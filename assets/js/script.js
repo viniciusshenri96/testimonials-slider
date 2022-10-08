@@ -1,44 +1,16 @@
 "use strict";
 
-const slides = document.querySelectorAll(".testimonial");
-const btnPrev = document.querySelectorAll(".btn-prev");
-const btnNext = document.querySelectorAll(".btn-next");
+const testimoniesBox = document.querySelectorAll(".testimonial__box");
+const btnNext = document.querySelector(".btn__next");
+const btnPrev = document.querySelector(".btn__prev");
 
-let curSlide = 0;
-const maxSlide = slides.length;
-
-const goToSlide = function (slide) {
-  slides.forEach((s, i) => {
-    s.style.transform = `translateX(${100 * (i - slide)}%)`;
+const transition = function () {
+  testimoniesBox.forEach((testi) => {
+    testi.classList.contains("visible")
+      ? testi.classList.remove("visible")
+      : testi.classList.add("visible");
   });
 };
 
-goToSlide(0);
-
-// Next slide
-const nextSlide = function () {
-  if (curSlide === maxSlide - 1) {
-    curSlide = 0;
-  } else {
-    curSlide++;
-  }
-  goToSlide(curSlide);
-};
-
-// Previous slide
-const prevSlide = function () {
-  if (curSlide === 0) {
-    curSlide = maxSlide - 1;
-  } else {
-    curSlide--;
-  }
-  goToSlide(curSlide);
-};
-
-btnNext.forEach((btn) => {
-  btn.addEventListener("click", nextSlide);
-});
-
-btnPrev.forEach((btn) => {
-  btn.addEventListener("click", prevSlide);
-});
+btnNext.addEventListener("click", transition);
+btnPrev.addEventListener("click", transition);
