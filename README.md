@@ -1,19 +1,19 @@
 </p>
 <h1 align="center"> 
-    Suite landing page <br> 
+    Coding Bootcamp Testimonials Slider <br> 
     <hr>
-    <img alt="Suite landing page" title="" src="readme/apr.jpg"/>
+    <img alt="Coding Bootcamp Testimonials Slider" title="" src="readme/apr.jpg"/>
 </h1>
 
 <h4 align="center"> 
-	🚧 Suite landing page ✔️ Concluded 🚀 🚧
+	🚧 Coding Bootcamp Testimonials Slider ✔️ Concluded 🚀 🚧
 </h4>
 
 ## 💻 About the project
 
-✔️ Suite landing page - It is a fictitious company suite landing page.
+✔️ Coding Bootcamp Testimonials Slider - Testimonial Component from a bootcamp.
 
-✔️ This project is a challenge from the Frontend Mentor website, where I could practice HTML, CSS and responsive.
+✔️ This project is a challenge from the Mentor frontend site where I put into practice basic DOM concepts.
 
 <img alt="" title="" src="readme/nivel.svg"/>
 
@@ -23,6 +23,7 @@
 
 - [x] Layout adapts to any type of screen
 - [x] Hover states for interactive(hover) elements
+- [x] Navigate the slider using either their mouse/trackpad or keyboard
 
 ---
 
@@ -32,7 +33,7 @@
 
 <p align="left">
 
-  <img alt="Suite landing page" title="#Suitelandingpage" src="readme/mobile.png"  width="200px" >
+  <img alt="Coding Bootcamp" title="#CodingBootcamp" src="readme/mobile.png"  width="200px" >
 
   <!-- <img alt="Typemaster pre-launch landing page" title="#Typemasterprelaunchlandingpa" src="./readme/mobile2.png">
 
@@ -44,20 +45,20 @@
 ### Tablet
 
 <p align="left">
-  <img alt="Suite landing page" title="#Suitelandingpage" src="readme/tablet.png" width="200px" 
+  <img alt="Coding Bootcamp" title="#CodingBootcamp" src="readme/tablet.png" width="200px" 
 </p>
 
 ### Desktop
 
 <p align="left">
-  <img alt="Suite landing page" title="#Suitelandingpage" src="readme/desktop.png" width="200px">
+  <img alt="Coding Bootcamp" title="#CodingBootcamp" src="readme/desktop.png" width="200px">
 </p>
 
 ---
 
 ## 🌎 Preview Site
 
-- [Netlify](https://suite-vinicius.netlify.app)
+- [Netlify](https://vinicius-coding-bootcamp-testimonials.netlify.app)
 
 ## 🛠 Technologies
 
@@ -66,6 +67,8 @@ The following tools and technologies were used in the construction of the projec
 - **HTML**
 
 - **CSS**
+
+- **JAVASCRIPT**
 
 - **FIGMA**
 
