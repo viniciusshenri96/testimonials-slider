@@ -129,7 +129,7 @@ body {
   align-items: flex-start;
   gap: 3rem;
   place-self: end center;
-  transform: translate(5rem, -1.8rem);
+  transform: translate(8rem, -1.8rem);
   box-shadow: 0 0.938rem 1.25rem -0.625rem rgba(36, 36, 113, 0.0991313);
 }
 
