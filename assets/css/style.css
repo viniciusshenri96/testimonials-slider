@@ -38,8 +38,9 @@ body {
 }
 
 body {
-  background: url(../images/pattern-curve.svg) no-repeat left bottom;
+  font-family: Arial, Helvetica, sans-serif;
   color: var(--color-darkBlue);
+  background: url(../images/pattern-curve.svg) no-repeat left bottom;
 
   display: flex;
   justify-content: center;
@@ -47,7 +48,7 @@ body {
 }
 
 .container {
-  max-width: 1292px;
+  max-width: 80.75rem;
   padding: 0 2.5rem;
 }
 
@@ -91,7 +92,7 @@ body {
 }
 
 .testimonial__text {
-  font: var(--lh-light) 32px/1.38 "Inter";
+  font: var(--lh-light) 2rem/1.38 "Inter";
   max-width: 39.688rem;
   position: relative;
 }
@@ -111,7 +112,7 @@ body {
   font: var(--lh-bold) 1.25rem/1.9 "Inter";
   display: flex;
   align-items: start;
-  gap: 10px;
+  gap: 0.625rem;
 }
 
 .testimonial__author > span {
