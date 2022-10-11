@@ -135,13 +135,9 @@ body {
 
 .btn__prev,
 .btn__next {
+  width: 0.75rem;
+  height: 1.125rem;
   border: none;
   background: none;
   cursor: pointer;
-}
-
-.btn__prev,
-.btn__next {
-  width: 0.75rem;
-  height: 1.125rem;
 }
