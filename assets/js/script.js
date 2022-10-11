@@ -1,6 +1,7 @@
 "use strict";
 
 // Selecting Elements
+
 const testimoniesBox = document.querySelectorAll(".testimonial__box");
 const btnNext = document.querySelector(".btn__next");
 const btnPrev = document.querySelector(".btn__prev");
@@ -27,7 +28,7 @@ const nextSlide = function () {
 
 // Logic to go previous
 const prevSlide = function () {
-  if (contSlide <= indexTesti && contSlide != 0) {
+  if (contSlide <= indexTesti && contSlide !== 0) {
     testimoniesBox[contSlide - 1].style.opacity = 1;
     testimoniesBox[contSlide].style.opacity = 0;
     contSlide -= 1;

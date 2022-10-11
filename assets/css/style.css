@@ -38,11 +38,14 @@ body {
 }
 
 body {
-  justify-content: center;
-  align-items: center;
   font-family: Arial, Helvetica, sans-serif;
   color: var(--color-darkBlue);
   background: url(../images/pattern-curve.svg) no-repeat left bottom;
+}
+
+main {
+  justify-content: center;
+  align-items: center;
 }
 
 .container {
